@@ -43,11 +43,8 @@ Ensure the following are installed on your machine:
 ### 📦 Installation
 
 1. **Clone the repository:**
-
    ```bash
    git clone https://github.com/Varsha-Boddapati-24/shoppyGlobe-backend.git
-  
-
 2. **Navigate to the project directory**
      ```bash
        cd shoppyGlobe-backend
@@ -58,13 +55,9 @@ Ensure the following are installed on your machine:
     ```bash
       PORT=5000
       JWT_SECRET_KEY=your_jwt_secret
-
 5. **Run the following command**
       ```bash
      npm run dev
-
-
-
 ## 📮 API Endpoints
 
 ### 👤 Users
