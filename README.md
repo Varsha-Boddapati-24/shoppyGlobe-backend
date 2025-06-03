@@ -68,8 +68,8 @@ Ensure the following are installed on your machine:
 ## 📮 API Endpoints
 
 ### 👤 Users
-- **POST** `/users/register` – Register a new user  
-- **POST** `/users/login` – Log in a user  
+- **POST** `/user/register` – Register a new user  
+- **POST** `/user/login` – Log in a user  
 
 ---
 
